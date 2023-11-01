@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-A Flask web application for sentiment analysis, using a model created with Scikit-learn and VADER Sentiment, is the core of this machine learning project. It leverages various libraries including Flask, Scikit-learn, Requests, NLTK, and VADER Sentiment.
+Sentiment analysis, a key component of Natural Language Processing (NLP), focuses on automatically discerning the emotional tone and subjective information within text. Its applications are vast and versatile, ranging from gauging public sentiment in product reviews, movie critiques, and social media content, to assessing public opinion in political polls and surveys. Sentiment analysis helps businesses make data-driven decisions, as they can adjust products and services based on customer feedback or react swiftly to shifts in public perception. It's a fundamental tool in market research, customer service, and social media monitoring, providing insights into how people feel about a wide array of topics and products, making it an indispensable resource for organizations in today's data-driven world.
 
 ## VADER Sentiment
 VADER Sentiment, short for "Valence Aware Dictionary and Sentiment Reasoner," is a specialized lexicon and rule-based sentiment analysis tool. It excels in analyzing sentiments expressed in social media content and is adaptable to various text domains.
